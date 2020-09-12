@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1567602720 source:c:\users\div-smv-4\desktop\calculadora\funciones.c
+
+1567604795 source:c:\users\div-smv-4\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1567602720 c:\users\div-smv-4\desktop\calculadora\biblioteca.h
+
+1567807337 source:c:\users\fede pc\desktop\fede\la posta\funciones.c
+
+1567807071 source:c:\users\fede pc\desktop\fede\la posta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1567682397 c:\users\fede pc\desktop\fede\la posta\biblioteca.h
+
+1570105001 source:e:\federico\tp\tp_laboratorio_1-master\tp_laboratorio_1_federico_martin\funciones.c
+
+1570105001 source:e:\federico\tp\tp_laboratorio_1-master\tp_laboratorio_1_federico_martin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1570105001 e:\federico\tp\tp_laboratorio_1-master\tp_laboratorio_1_federico_martin\biblioteca.h
+
+1599947664 source:e:\federico\tp_laboratorio_1_federico_martin\funciones.c
+
+1599947664 source:e:\federico\tp_laboratorio_1_federico_martin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1599947664 e:\federico\tp_laboratorio_1_federico_martin\biblioteca.h
+
